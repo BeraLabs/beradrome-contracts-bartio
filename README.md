@@ -1,1 +1,1 @@
-# v33x
+Beradrome is the prime restaking and liquidity marketplace on Berachain. Beradrome combines features from top DeFi models into one power house, allowing ve(3,3) for any yield bearing asset on Berachain.
